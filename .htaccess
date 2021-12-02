@@ -1,0 +1,2 @@
+header set x-frame-options DENY
+X-Frame-Options: DENY

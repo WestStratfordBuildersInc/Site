@@ -1,0 +1,6 @@
+php-download.sh linguist-vendored
+githubsync.sh linguist-vendored
+.htaccess linguist-vendored
+.replit linguist-vendored
+CNAME linguist-vendored
+.github/* linguist-vendored

@@ -1,0 +1,1 @@
+document.write("Javascript test result: PASS")
