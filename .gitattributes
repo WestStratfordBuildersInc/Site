@@ -4,3 +4,4 @@
 CNAME linguist-vendored
 .github/* linguist-vendored
 *.md linguist-vendored
+.* linguist-vendored
